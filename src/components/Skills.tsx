@@ -19,6 +19,14 @@ export function Skills() {
       icon: "images/python.png",
     },
     {
+      name: "R",
+      icon: "images/r.png",
+    },
+    {
+      name: "SQL",
+      icon: "images/sql.png"
+    },
+    {
       name: "Spark",
       icon: "images/spark.png",
     },
@@ -38,17 +46,17 @@ export function Skills() {
       name: "AWS",
       icon: "images/aws.png",
     },
-    // {
-    //   name: "Power BI",
-    //   icon: "images/powerbi.png",
-    // },
     {
       name: "FastAPI",
       icon: "images/fastapi.jpg",
     },
     {
-      name: "seaborn",
-      icon: "images/seaborn.png",
+      name: "MlFlow",
+      icon: "images/mlflow.png",
+    },
+    {
+      name: "BentoML",
+      icon: "images/bentoml.png",
     }
   ]
 
