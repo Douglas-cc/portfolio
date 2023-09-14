@@ -30,11 +30,11 @@ export function About() {
               <tbody>
                 <tr>
                   <td className="font-headline font-bold uppercase text-blue-900">
-                  Telegram:
+                  Github:
                   </td>
                   <td>
-                    <a href="https://t.me/5596991239153?text=Olá." className="underline hover:text-blue-800">
-                      Fale Comigo
+                    <a href="https://github.com/Douglas-cc" className="underline hover:text-blue-800">
+                      Acompanhe
                     </a>
                   </td>
                 </tr>

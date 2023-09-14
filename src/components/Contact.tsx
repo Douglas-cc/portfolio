@@ -1,6 +1,6 @@
 import emailjs from "@emailjs/browser"
 import { FormEvent, useRef, useState } from "react"
-import { FaSpinner, FaTelegramPlane, FaLinkedinIn } from "react-icons/fa"
+import { FaSpinner, FaGithub, FaLinkedinIn } from "react-icons/fa"
 import {
   HiCheckCircle,
   HiOutlineEnvelope,
@@ -42,10 +42,10 @@ export function Contact() {
 
   const contacts = [
     {
-      name: "Telegram",
-      description: "Fale Comigo",
-      link: "https://t.me/5596991239153?text=Olá.",
-      icon: <FaTelegramPlane className="h-10 w-10" />,
+      name: "Github",
+      description: "Acompanhe",
+      link: "https://github.com/Douglas-cc",
+      icon: <FaGithub className="h-10 w-10" />,
     },
     {
       name:"Linkedin",
