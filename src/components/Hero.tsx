@@ -22,7 +22,7 @@ export function Hero() {
                     <div className='flex items-center gap-2 justify-center'>
                         <a href='#contact' className='underline font-bold text-white'>Fale Comigo</a>
                         <span className='italic text-gray-500'>ou</span>
-                        <a href='https://drive.google.com/drive/u/2/folders/1RUTZRhWk5rTW4cV30dqt3Q4X0dEu6yCg' 
+                        <a href='https://drive.google.com/file/d/1mwxRZgdZMkp7uo2kwYruvNE3oWr-TRWP/view' 
                         className='button text-white flex items-center gap-2 bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500'>
                             <HiDownload/>
                             Baixe meu CV
