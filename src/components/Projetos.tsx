@@ -19,17 +19,17 @@ export function Projetos() {
         colSpan: "col-span-1 md:col-span-2",
       },
       {
-        title: "Otimização de Valores de pacotes hospitalares",
-        description: "Maxímização de preco de venda de pacotes cirurgicos",
+        title: "Otimização de Preços de pacotes hospitalares",
+        description: "Redestribuição de preco de venda de pacotes cirurgicos",
         image:"https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
         link: "https://github.com/Douglas-cc/otm_portes",
         colSpan: "col-span-1",
       },
       {
-        title: "Classificador de nivel de precipitação",
-        description: "Prevendo de índice de chuva no estado do Amapá com Machine Learning",
-        image:"https://images.unsplash.com/photo-1519692933481-e162a57d6721?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-        link: "https://github.com/Douglas-cc/weather_Prediction",
+        title: "Otimizador de lucro em corridas de cavalos",
+        description: "Com base nas chances de vitória e no preço inicial",
+        image:"https://www.royal-horse.com/wp-content/uploads/2022/01/GALOP.jpg",
+        link: "https://github.com/Douglas-cc/horse_racing/tree/main",
         colSpan: "col-span-1",
       },
       {
