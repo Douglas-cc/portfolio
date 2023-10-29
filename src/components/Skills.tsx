@@ -57,6 +57,10 @@ export function Skills() {
     {
       name: "BentoML",
       icon: "images/bentoml.png",
+    },
+    {
+      name:"Terraform",
+      icon:"images/terraform.webp"
     }
   ]
 

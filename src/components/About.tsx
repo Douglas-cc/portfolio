@@ -50,28 +50,14 @@ export function About() {
                 </tr>
                 <tr>
                   <td className="font-headline font-bold uppercase text-blue-900">
-                    Email:
+                    ID Lattes:
                   </td>
                   <td>
                     <a
-                      href="douglas.contato42@gmail.com"
+                      href="http://lattes.cnpq.br/2532281193329996"
                       className="underline hover:text-blue-800"
                     >
-                    douglas.contato@gmail.com
-                    </a>
-                  </td>
-                </tr>
-                <tr>
-                  <td className="font-headline font-bold uppercase text-blue-900">
-                    Endereço:
-                  </td>
-                  <td>
-                    <a
-                      href="https://goo.gl/maps/4yacADQtLB8jz8zn9?coh=178573&entry=tt"
-                      target="_blank"
-                      className="underline hover:text-blue-800"
-                    >
-                    Macapá - AP
+                    2532281193329996
                     </a>
                   </td>
                 </tr>

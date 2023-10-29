@@ -2,7 +2,7 @@ import '../App.css'
 import { SiMusicbrainz } from 'react-icons/si';
 import { IoMdAnalytics } from 'react-icons/io';
 import { TbDeviceAnalytics } from 'react-icons/tb';
-
+import { GiMoneyStack } from 'react-icons/gi';
 
 export function Services() {
   const services = [
@@ -13,7 +13,7 @@ export function Services() {
       },
       {
         title: "Self Service Analytics",
-        description: "Desenvolva painéis de controle robustos que proporcionem valor tanto em operações quanto em estratégias, capacitando não apenas a área de negócios a utilizá-los de forma eficaz, mas também a compartilhar esse poder com outros setores.",
+        description: "Desenvolva dashboards de controle robustos que proporcionem valor tanto em operações quanto em estratégias, capacitando não apenas a área de negócios a utilizá-los de forma eficaz, mas também a compartilhar esse poder com outros setores.",
         icon: <TbDeviceAnalytics className="h-12 w-12" />,
       },
       {
@@ -21,6 +21,11 @@ export function Services() {
         description: "Adquira uma compreensão mais profunda dos padrões de comportamento e das interações entre os indicadores, obtendo uma perspectiva completa e abrangente do seu negócio.",
         icon: <IoMdAnalytics className="h-12 w-12" />,
       },
+      {
+        title:"Modelagem Prescritiva",
+        description: "Construa modelos capazes de maximizar lucro ou minimizar custos de uma operação",
+        icon: <GiMoneyStack className="h-12 w-12" />,
+      }
     ]
   
   return (

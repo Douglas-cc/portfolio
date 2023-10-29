@@ -55,7 +55,7 @@ export function Contact() {
     },
     {
       name: "Email",
-      description: "douglas.contato@gmail.com",
+      description: "douglas.contato42@gmail.com",
       link: "mailto:douglas.contato42@gmail.com?subject=Olá...",
       icon: <HiOutlineEnvelope className="h-10 w-10" />,
     },
